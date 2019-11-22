@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/arnovandenbrink/TestProject/_apis/build/status/avdbrink.pipelines-java?branchName=master)](https://dev.azure.com/arnovandenbrink/TestProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
